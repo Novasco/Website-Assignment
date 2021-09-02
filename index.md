@@ -4,7 +4,7 @@
 <title>Zakaria</title>
 </head>
 <body>
-
+<img src="pic_trulli.jpg" alt="samdich">
 <h1>Grilled Cheese Sandwich</h1>
   <h2>in my mouf</h2>
    <h3>worth a buck 50</h3>
